@@ -1,4 +1,4 @@
 # Fines
 
-## Matti: 40,-
-## Martin: 100,-
+## Matti: 140,-
+## Martin: 400,-
